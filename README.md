@@ -130,10 +130,3 @@ Apache License 2.0
 
 For issues and questions:
 [GitHub Repository](https://github.com/mik-tf/ubunamd)
-
-The changes made include:
-1. Changed all instances of "ubundia" to "ubunamd"
-2. Updated repository URLs
-3. Updated all command examples
-4. Updated log directory path
-5. Maintained all AMD-specific content from the previous version
